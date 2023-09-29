@@ -12,40 +12,8 @@ This fictious case study portfolio project is designed to enhance my overall rep
  - Problem to solve: "How does casual riders 
    differ from annual members usage of 
    Cyclist.
- - Recommendation: How to convert casual
-   riders into annual members.     
-
-
-
-
-## Acknowledgements
-
-
-## API Reference
-
-#### Get all items
-
-```http
-  GET /api/items
+ - Recommendation: How to convert casualriders into annual ride
 ```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
-
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
-
-#### add(num1, num2)
-
-Takes two numbers and returns the sum.
 
 
 ## Authors
@@ -60,26 +28,8 @@ Insert gif or link to demo
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+See Cyclist_Report file in director
 
-
-## FAQ
-
-#### Question 1
-
-Answer 1
-
-#### Question 2
-
-Answer 2
-
-
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
 
 
 ## 🚀 About Me...
@@ -97,7 +47,7 @@ https://www.linkedin.com/in/sheila-sauls-clemons-704ab4a/
 Wichita, Kansas | 316-734-4969 | sgclemons322@gmail.com | https://www.linkedin.com/in/sheila-sauls-clemons10 Data Analytics Portfolio
  
 Recent graduate of an intensive Data Analytics program, focused on developing skills in data preparation, processing, and analysis to obtain the Google Data Analytics certificate. 25+ years in the Information Technology apparatus. 
-Successfully completed  an Harvard Business School online course in Financial Accounting.
+Successfully completed a Harvard Business School online course in Financial Accounting in August 2023. 
 Occupied roles as a Developer, Consultant and Sr. Business Analyst which encompasses leveraging data processing tools  for application design, unit and system testing using  extrapolation data techniques to acquire data from  disparate systems and prep data for testing. Concomitantly,  participated  in ongoing collaboration with Stakeholders for scope refinement and project progression.
  
 RELEVANT SKILLS
@@ -107,7 +57,7 @@ Collection | Metadata | Data Ethics |  Problem Solving & Troubleshooting | Micro
  
 DATA ANALYSIS EXPERIENCE
  
-Data Analytics Capstone Project github] • Google Data Analytics Professional Certificate, Virtual	02/2023
+Data Analytics Capstone Project • Google Data Analytics Professional Certificate, Virtual	02/2023
 ●	Imported 12 excel datasheets with millions of entries into R, then used tidyr package to clean the datasets and prepare them for analysis
 ●	Joined all of the datasets together, created subsets of the data, and converted each attribute to the proper data type before performing analysis to find differences between members and casual customers
 ●	Developed visuals using the ggplot2 package to display the analysis results and provide meaningful conclusions for stakeholders to act on
@@ -159,9 +109,4 @@ Other Certifications
 ●	AWS essential training for developers (2021)
 ●	Communications within teams (05/2021)
 Wichita State University Bachelors in Computer Science
-
-# Hi, I'm Katherine! 👋
-
-
-## Screenshots
 
