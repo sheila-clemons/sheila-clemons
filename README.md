@@ -1,6 +1,8 @@
 
 # Cyclist : Bike-Share 
-This fictious case study portfolio project is designed to enhance my overall repertiore in the field of data analytics. The project will demonstrate my comprehension, execution and lucid data visualizations when working in analytics.
+This fictious case study portfolio project is designed to enhance my overall repertiore in the field of data analytics. The project will demonstrate my comprehension, execution and lucid data visualizations designs when working in analytics.
+ 
+ 
  Case Study: 
 
  - How does a Bike-Share Navigate Speedy Success.
@@ -13,7 +15,7 @@ This fictious case study portfolio project is designed to enhance my overall rep
    differ from annual members usage of 
    Cyclist.
  - Recommendation: How to convert casualriders into annual ride
-```
+
 
 
 ## Authors
